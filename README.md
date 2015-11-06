@@ -1,2 +1,2 @@
 # WebTracker
-A tracker for student data without the use of Excel. 
+A tracker for student data without the use of Excel. This tracker will enhance the workflow between the Branch 1SG, SSGL, and SGL. This project is an attempt at creating a product that is straight forward for the user from a single source. The current tracker has 10 class specific versions which creates a management nightmare. The goal of this project is to create one app for all users to access student data in an organized manner. Student data will be aligned with the class they are enrolled and viewable by branch 1SG's and SSGL's. This feature will be managed by a log in system of which users will be givin permissions based on position.   
